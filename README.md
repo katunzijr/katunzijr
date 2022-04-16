@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jasper Rupia Katunz</h1>
 <h3 align="center">A passionate full-stack developer from Tanzania</h3>
 
+
+
+![](https://pbs.twimg.com/profile_banners/1515338077690118146/1650124789/600x200)
+
+
+
 ### This is how to reach me
 - 📫 **jasperrupia@gmail.com** 
 - 📫 **jasperrupia@outlook.com** 
@@ -15,6 +21,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_katunz_jr" height="30" width="40" />
   </a>
 </p>
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasper-rupia&show_icons=true)  
 
 
 
@@ -51,6 +61,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-rupia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -107,6 +121,9 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a>
+  <a href="https://codepen.io/jasper-rupia" target="_blank" rel="noreferrer"> 
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>  
+  </a>
 </p>
 
 
@@ -126,3 +143,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
 </p>
+
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jasper-rupia)  
+
+
+
+![Profile views](https://gpvc.arturio.dev/jasper-rupia)  
