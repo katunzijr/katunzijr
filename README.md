@@ -12,6 +12,10 @@
 - 📫 **jasperrupia@outlook.com** 
 -   <a href="tel:+255656631106"> +255 656 631 106 </a>
 
+### About me
+❤️ I love writing JavaScript, and building fun experiments on type-level.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/katunzj" target="blank">
@@ -63,7 +67,7 @@
 </p>
 
 
-
+*NOTE: Top languages does not indicate my skill level or something like that. But gitHub merics of laguages publish most*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-rupia)](https://github.com/anuraghazra/github-readme-stats)
 
 
