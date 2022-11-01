@@ -29,7 +29,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasper-rupia&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasperrupia&show_icons=true)  
 
 
 
@@ -60,7 +60,7 @@
 
 
 *NOTE: Top languages does not indicate my skill level or something like that. But gitHub merics of laguages publish most*
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-rupia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperrupia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -124,9 +124,9 @@
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jasper-rupia)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jasperrupia)  
 
 
 
-![Profile views](https://gpvc.arturio.dev/jasper-rupia)  
+![Profile views](https://gpvc.arturio.dev/jasperrupia)  
 
