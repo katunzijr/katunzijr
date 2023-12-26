@@ -21,7 +21,7 @@
   <a href="https://twitter.com/katunzj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katunzj" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/official_katunz_jr" target="blank">
+  <a href="https://instagram.com/katunz.jr" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_katunz_jr" height="30" width="40" />
   </a>
 </p>
