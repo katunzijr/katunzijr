@@ -9,7 +9,6 @@
  
 ### This is how to reach me
 - 📫 **jasperrupia@gmail.com** 
-- 📫 **jasperrupia@outlook.com** 
 -   <a href="tel:+255656631106"> +255 656 631 106 </a>
 
 
