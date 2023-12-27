@@ -10,7 +10,7 @@
 ### This is how to reach me
 - 📫 **jasperrupia@gmail.com** 
 -   <a href="tel:+255656631106"> +255 656 631 106 </a>
--   <a href="https://jasperrupia.com"> www.jasperrupia.com </a>
+-   <a href="https://jasperrupia.com" target="blank"> www.jasperrupia.com </a>
 
 
 ### About me
