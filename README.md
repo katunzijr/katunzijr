@@ -133,7 +133,10 @@
 <h3 align="left">Virtualization:</h3>
 <p align="left">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="60"/> 
+  </a> 
+ <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/plotly/plotly-official.svg" alt="plotly" width="40" height="60"/> 
   </a> 
 </p>
 
