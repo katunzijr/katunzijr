@@ -151,9 +151,9 @@
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jasperrupia)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=katunzijr)  
 
 
 
-![Profile views](https://gpvc.arturio.dev/jasperrupia)  
+![Profile views](https://gpvc.arturio.dev/katunzijr)  
 
