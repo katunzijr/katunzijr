@@ -117,6 +117,12 @@
   <a href="https://codepen.io/jasper-rupia" target="_blank" rel="noreferrer"> 
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>  
   </a>
+ <a href="javascript:void(0);"> 
+    <img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg' alt='codepen' height='40'>  
+  </a>
+ <a href="javascript:void(0);"> 
+    <img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg' alt='codepen' height='40'>  
+  </a>
 </p>
 
 
