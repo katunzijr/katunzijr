@@ -49,14 +49,24 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> 
   </a> 
+</p>
+
+
+<h3 align="left">Extentions:</h3>
+<p align="left"> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40"/> 
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/> 
+  </a>   
+ <a href="javascript:void(0);"> 
+    <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg" alt="gulp" height="40"/> 
+  </a> 
+  <a href="javascript:void(0);"> 
+    <img src="[https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg](https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg)" alt="pug" height="40"/> 
   </a> 
 </p>
-
 
 *NOTE: Top languages does not indicate my skill level or something like that. But gitHub merics of laguages publish most*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperrupia)](https://github.com/anuraghazra/github-readme-stats)
@@ -66,10 +76,13 @@
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" height="40"/> 
   </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40"/> 
+  </a>
+ <a href="javascript:void(0);"> 
+    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="flutter" height="40"/> 
   </a>
 </p>
 
