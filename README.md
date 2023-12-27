@@ -100,7 +100,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> 
   </a>
  <a href="javascript:void(0);"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="mysql" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40"/> 
   </a>
 </p>
 
@@ -118,10 +118,10 @@
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>  
   </a>
  <a href="javascript:void(0);"> 
-    <img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg' alt='codepen' height='40'>  
+    <img src='https://upload.vectorlogo.zone/logos/android_studio/images/7e1c4157-703e-4a97-a776-96d407fc6580.svg' alt='android studio' height='40'>  
   </a>
  <a href="javascript:void(0);"> 
-    <img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg' alt='codepen' height='40'>  
+    <img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg' alt='visualstudio_code' height='40'>  
   </a>
 </p>
 
