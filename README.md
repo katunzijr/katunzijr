@@ -64,7 +64,7 @@
     <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg" alt="gulp" height="40"/> 
   </a> 
   <a href="javascript:void(0);"> 
-    <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg](https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg" alt="pug" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg" alt="pug" height="40"/> 
   </a> 
 </p>
 
@@ -122,6 +122,9 @@
   </a>
  <a href="javascript:void(0);"> 
     <img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg' alt='visualstudio_code' height='40'>  
+  </a>
+ <a href="javascript:void(0);"> 
+    <img src='https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg' alt='xcode' height='40'>  
   </a>
 </p>
 
