@@ -28,7 +28,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasperrupia&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=katunzijr&show_icons=true)  
 
 
 
@@ -64,7 +64,7 @@
     <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg" alt="gulp" height="40"/> 
   </a> 
   <a href="javascript:void(0);"> 
-    <img src="[https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg](https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg)" alt="pug" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg](https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg" alt="pug" height="40"/> 
   </a> 
 </p>
 
